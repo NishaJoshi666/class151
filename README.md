@@ -1,2 +1,2 @@
-# CarRacingGame1.0
-Car Racing Game Stage 1.0
+# BickRacingGame1.0
+Bick Racing Game Stage 1.0
